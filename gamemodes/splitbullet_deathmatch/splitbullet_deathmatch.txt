@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"title"			"Split Bullet: Deathmatch"
+	"base"			"splitbullet_core"
+	"maps"		"^sbdm_"
+	"menusystem" 	"1"
+}
